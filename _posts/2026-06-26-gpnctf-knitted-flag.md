@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Knitted Flag"
-date: 2026-06-25 00:00:00 +0000
+date: 2026-06-26 00:00:00 +0000
 categories: [GPNCTF 2026, Miscellaneous]
 tags: [misc, forensics, knitout, python, pixel-art]
 ---
