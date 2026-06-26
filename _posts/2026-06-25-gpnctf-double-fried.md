@@ -6,6 +6,13 @@ categories: [GPNCTF 2026, Miscellaneous]
 tags: [misc, forensics, pcap, syslog]
 ---
 
+# Double Fried — GPNCTF
+
+**Category:** Miscellaneous  
+**Flag:** `GPNCTF{NicE, yoU fouND 0uT WhO dId n0t BElON6 thErE}`
+
+---
+
 ## Challenge Description
 
 > I was planning to go to dinner with a friend but something felt off. Can you help me sort everything out?
