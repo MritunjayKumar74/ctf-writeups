@@ -104,7 +104,7 @@ print("Saved pattern_visual.png")
 
 Opening `pattern_visual.png` reveals the flag knitted as pixel art text across the fabric.
 
-![Pattern Visual](../assets/img/gpnctf-2026/knitted-flag/pattern_visual.png)
+![Pattern Visual](../assets/pattern_visual.png)
 
 ---
 
